@@ -1,6 +1,5 @@
 README
 
-```
 
 **# Installationsanleitung**
 
@@ -25,23 +24,17 @@ Diese Anleitung zeigt Schritt für Schritt, wie Sie die erforderlichen Abhängig
 
 - Führen Sie den folgenden Befehl aus, um die erforderlichen Node.js-Abhängigkeiten (Node Modules, Express, SQLite3, Path und Nodemon) für das Projekt zu installieren:
 
-```
-$npm install
-
-$npm install express
-
-$npm install sqlite3
-
-$npm init -y
-```
+npm install
+npm install express
+npm install sqlite3
+npm init -y
 
 **### Schritt 5: Projekt ausführen**
 
 - Führen Sie den folgenden Befehl aus, um das Projekt zu starten:
 
-```
-$node app/server.js
-```
+node app/server.js
+
 
 - Öffnen Sie Ihren Webbrowser (bevorzugt Chrome oder Firefox) und geben Sie `http://localhost:3000` in die Adressleiste ein, um auf Ihr Projekt zuzugreifen.
 
